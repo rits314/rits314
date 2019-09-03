@@ -1,0 +1,21 @@
+1.
+
+Input_str = "abcdefg"
+print(Input_str.replace("abcdefg",'bacdefg'))
+
+
+2. 
+
+Input_str = "PCONECONCONN"
+print(Input_str.replace("CON",''))
+
+3.
+
+import string
+ trans = {ord('A'): 'T', ord('T'): 'A', ord('G'): 'C', ord('C'): 'G'}
+'ATTCGGTAG'.translate(trans)
+
+4.
+
+Input_str = "2012-18-10 Speaker Harman"
+print(Input_str.replace("-",'').replace("Speaker Harman",''))
