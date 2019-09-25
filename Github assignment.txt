@@ -1,0 +1,59 @@
+1. Help developers to keep track of the constant revision to thier codes. 
+
+2. Mostly Ansi c software library and multiple languages can be use for platforms
+
+3. Indexing allows user to control what part of the working tree to go into the respository on the next 'commits'operations and
+   staging helps to slipt up one large changes into multiple commits and helps reviewing changes.
+
+4. Create login information and go to new to create respository and after created repo make it private or public.
+
+6. to avoid repeated indexing 
+
+11. forking create full copy of your respositoy and branching only add to existing tree.
+
+13. pull request look like a different way to calling branch.
+
+14. git fetch just downloads the change from the remote to your local respository and git pull downloads the changes
+    and merges into your current branch. 
+
+19. git clone: clone local or remote respository, clone bare repository 
+
+20. make changes to working copy 
+
+21. help to save safely copies
+
+22. Remove it from directory or indexing 
+
+23. save working directory or indexing 
+
+24. form of documantation or file usually in plain simple text 
+
+25. change it to your current working directory to your local projects.
+
+27. remove individual files or a collection of files 
+
+29. modified tracking files and staging change 
+
+28. just remove files from working directory 
+
+30. tool allow you to view information about previous commits that have occurred in a projects.
+
+31. adds a change in the working directory to the staging area 
+
+33. gitstates commands display the state of the working directory and the staging area
+
+40. git merge 
+
+41. contain three things = a type ,a size, and contents 
+
+42. provide open source projects 
+
+43. bitbuckets, gitlab, sourceforge
+
+44. every gists  is gits and it can be public or secret 
+
+45. allows user to snippets, notes, to do lists and more.
+
+46. gitlab and bitbucket.
+
+ 
